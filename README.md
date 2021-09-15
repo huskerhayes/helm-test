@@ -1,4 +1,4 @@
-# pet-clinic-helm
+# helm-test
 
 ## Creating GKE Cluster
 GKE cluster was using the $300 free credit offered by Google. The cluster was created using the provided GUI in the GCP console. 
