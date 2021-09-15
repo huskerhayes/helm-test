@@ -52,7 +52,8 @@ This can be done by clicking on Kubernetes Engine, clicking create and then usin
     ports:
        - name: http
         containerPort: 8080
-        protocol: TCP```
+        protocol: TCP 
+        
         
 ## Install Helm Chart
 1. The Helm chart is now ready to install. Open a terminal and navigate to the Helm chart directory and run the following command. Use the second command if you want to install the chart into a specific namespace
