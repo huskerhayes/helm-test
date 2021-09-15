@@ -78,4 +78,5 @@ This can be done by clicking on Kubernetes Engine, clicking create and then usin
 ### References
 
 http://docs.shippable.com/deploy/tutorial/deploy-to-gcp-gke-helm/ (note Helm 3.0 does not use the init command shown here)
+
 https://docs.bitnami.com/tutorials/create-your-first-helm-chart/
