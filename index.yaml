@@ -3,22 +3,12 @@ entries:
   petclinic:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-10-02T17:06:27.9419506-05:00"
-    description: A Helm chart for Kubernetes
-    digest: 01dc7d091566967437793aa88d626cc551b8b4466a6dcd37151ed4e439a61be5
-    name: petclinic
-    type: application
-    urls:
-    - petclinic-0.2.0.tgz
-    version: 0.2.0
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2021-10-02T17:06:27.9419506-05:00"
+    created: "2021-09-23T23:34:30.502875-05:00"
     description: A Helm chart for Kubernetes
     digest: 9f099194c1dd5318238aa2d59f3248ddda1c96bbba3ccea35de55a704bd2f566
     name: petclinic
     type: application
     urls:
-    - petclinic-0.1.0.tgz
+    - https://huskerhayes.github.io/helm-test/petclinic-0.1.0.tgz
     version: 0.1.0
-generated: "2021-10-02T17:06:27.9409504-05:00"
+generated: "2021-09-23T23:34:30.5015917-05:00"
